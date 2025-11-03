@@ -43,7 +43,7 @@ public class TcpServer {
                 }
 				
 				//Invio dati su stream di rete
-				outStream.writeUTF("Vocali : "         + contV + "\nConsonanti : "         + contC);
+				outStream.writeUTF("Vocali : "         + contV + "\nConsonanti : "         + (clientMsg.length()-contV);
 				outStream.flush();
 			}
 
