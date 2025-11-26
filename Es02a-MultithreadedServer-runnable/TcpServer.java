@@ -2,7 +2,7 @@
  * TCPServer.java - Esempio di un server TCP che gestisce più client
  * utilizzando la programmazione basata su thread.
  * javac TcpServer.java && java TcpServer
- *
+ * sono Grassi Thomas
  */
 
 import java.io.BufferedReader;
