@@ -1,6 +1,7 @@
 /**
  * from network/..
  * javac network/TcpClient.java java network.TcpClient 
+ * sono Grassi Thomas
  */
 
 import java.io.DataInputStream;
