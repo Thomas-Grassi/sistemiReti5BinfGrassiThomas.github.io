@@ -2,6 +2,7 @@
  * TCPClient.java - Esempio di un semplice client TCP che invia messaggi a un server TCP
  * e riceve risposte echo dal server. 
  * javac TcpClient.java && java TcpClient
+ * sono Grassi Thomas
  */
 import java.io.BufferedReader;
 import java.io.IOException;
