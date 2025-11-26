@@ -1,11 +1,4 @@
-/**
- * Lettura dati multi riga provenienti dal client
- * 
- * cd /home/git-projects/TPSIT_3/B-ES01-03-HelloServer
- * from network/..
- * javac network/TcpServer.java
- * java network.TcpServer 
- */
+// sono Grassi Thomas
 
 import java.io.*;
 import java.net.ServerSocket;
